@@ -621,7 +621,7 @@
   margin: auto;
 }
 .pricing-h1 {
-  font-size: 40px;
+  font-size: 30px;
   text-transform: capitalize;
   margin-top: 50px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
@@ -635,8 +635,8 @@
   height: 3px;
 }
 .pricing-circle {
-  width: 100px;
-  height: 100px;
+  width: 110px;
+  height: 110px;
   border-radius: 50%;
   border: solid 2px rgb(47, 17, 214);
   margin: 25px auto;
